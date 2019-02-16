@@ -1,4 +1,4 @@
-# BeamHotels
+# Available Hotels Engine
 
 ## Getting Started
 
